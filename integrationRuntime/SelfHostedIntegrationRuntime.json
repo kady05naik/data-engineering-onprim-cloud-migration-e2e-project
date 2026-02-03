@@ -1,0 +1,10 @@
+{
+	"name": "SelfHostedIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "For sql server",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": true
+		}
+	}
+}
