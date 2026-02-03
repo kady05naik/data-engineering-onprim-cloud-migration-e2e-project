@@ -1,0 +1,9 @@
+{
+	"name": "adf-project-kad",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b34ee9f9-b538-48e0-9520-58218b8ccd00",
+		"tenantId": "26af9d76-35fe-404a-b312-869c37aec9c7"
+	}
+}
