@@ -1,0 +1,9 @@
+{
+	"name": "MGkadambari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94ab5e3e-c6be-4f84-a5d3-9d2967840ed4",
+		"tenantId": "30fe8ff1-adc6-444d-ba94-1238894df42c"
+	}
+}
